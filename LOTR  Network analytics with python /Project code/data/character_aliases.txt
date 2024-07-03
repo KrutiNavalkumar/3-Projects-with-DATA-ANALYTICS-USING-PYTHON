@@ -1,0 +1,47 @@
+Hamfast Gamgee:Gaffer,Ranugad Galbasi
+Ghan-buri-Ghan:Ghan,Chieftain of the Woses
+Theoden:Theoden Ednew
+Lotho Sackville Baggins:Little Pimple,Pimple,The Boss,The Chief
+Rorimac Brandybuck:Goldfather,Old Rory
+Fladrif:Skinbark
+Aragorn:Estel,Thorongil,Elessar,Edhelharn,Telcontar,Envinyatar,Strider,The Dunadan,Wingfoot
+Frodo:Frodo of the Nine Fingers,Nine-Fingered Frodo,Maura Labin,Mr. Underhill,Sneaky hobbit
+Cirdan:Nowe,Ciryatan
+Barliman Butterbur:Barley
+Tom Bombadil:Iarwain Ben-adar,Orald,Forn
+Saruman:Saruman the White,Saruman of Many Colours,The White Wizard,The White Messenger,the Jailor of Mordor,Saruman the Wise,Sharkey,Curunir,Curumo,Tarindor
+Thranduil:Elvenking
+Robin Smallburrow:Cock Robin
+Finglas:Leaflock
+Eowyn:Dernhelm
+Bowman Cotton:Nick
+Gandalf:Olorin,Mithrandir,Incanus,Tharkun,Greyhame,Old Greybeard,The Grey Pilgrim,Stormcrow,White Rider,Lathspell,the Wandering Wizard
+Bilbo:Mr. Invisible Baggins,Bilbo Took
+Angbor:Angbor the Fearless
+Fredegar Bolger:Fatty
+Deagol:Nahald
+Forlong:Forlong the Fat,Forlong the Old
+Celeborn:Teleporno
+Sam:Perhael,Banazir Galbasi,Samwise Gardner
+Dain:Ironfoot
+Gollum:Trahald,Slinker,Stinker,Shelob's Sneak
+Witch-king of Angmar:The Black Captain,Captain of Despair,Lord of Carrion,Dwimmerlaik,King of the Nine Riders,Morgul-lord
+Galadriel:Alatariel,Artanis,Nerwen
+Eomer:Eomer Eadig
+Meriadoc Brandybuck:Merry
+Shelob:Her Ladyship
+Bregalad:Quickbeam
+Goldberry:River-daughter
+Gimli:Elf-friend,Lockbearer
+Hirluin:Hirluin the Fair,Hirluin of the Green Hills
+Lobelia Sackville Baggins:Lobelia Bracegirdle,Mistress Lobelia
+Peregrin Took:Pippin,Razanur Tuk,Ernil i Pheriannath,Thain Peregrin I,Fool of a Took
+Radagast:Aiwendil,Hravandil,Tender of Beasts,Bird Friend,the Bird tamer
+Wormetongue:Grima,Wormtongue
+Grimbeorn:Grimbeorn the Old
+Tolman Cotton:Farmer Cotton,Tom
+Arwen:Undomiel
+Gwaihir:The Windlord,Gwaihir the Windlord
+Imrahil:Imrahil the Fair
+Sauron:Mairon,Annatar,Gorthaur,Necromancer,One Enemy,Dark Lord,Lord of Barad-dur,Lord of Mordor
+Treebeard:Fangorn
