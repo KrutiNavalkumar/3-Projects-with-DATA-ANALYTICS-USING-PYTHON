@@ -29,7 +29,4 @@ The dataset used for this project includes information on various factors affect
 
 ## Installation
 
-To run the scripts and notebooks, you need to have Python and the required libraries installed. You can install the necessary libraries using the following command:
-
-```bash
-pip install -r requirements.txt
+To run the scripts and notebooks, you need to have Python and the required libraries installed. 
